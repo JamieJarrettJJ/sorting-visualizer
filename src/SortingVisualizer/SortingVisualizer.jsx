@@ -65,7 +65,7 @@ export default class SortingVisualizer extends Component {
     return (
       <>
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand" href="/sorting-visualizer">
             <b>7 Days, 7 Projects - Sorting Visualizer (Day 2/7)</b>
           </a>
 
